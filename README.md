@@ -1,14 +1,15 @@
-# happy-birthday-cc
+# Happy Birthday
 
-![happy-birthday-cc](banner.png)
+![Happy birthday](/en/images/banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/happy-birthday-cc](https://projects.raspberrypi.org/en/projects/happy-birthday-cc)
+Find the project online at [projects.raspberrypi.org/en/projects/happy-birthday](https://projects.raspberrypi.org/en/projects/happy-birthday)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/happy-birthday-cc/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/happy-birthday-cc/tree/master/en/solutions).
+
+For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/happy-birthday/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
- See [LICENCE.md](LICENCE.md)
+ See [LICENSE.md](LICENSE.md)
