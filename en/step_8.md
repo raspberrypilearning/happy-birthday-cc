@@ -12,4 +12,6 @@ You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_bl
 
 ![screenshot](images/birthday-share.png)
 
+Go to the next project on the HTML & CSS module pathway: 'Tell a story'.
+
 --- /challenge ---
